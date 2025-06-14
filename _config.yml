@@ -12,7 +12,7 @@ title: "sageev oore blog"
 description: "will be posting stuff here"
 baseurl: "" # leave blank unless you're using a subpath like "/blog"
 url: "https://osageev.github.io"
-logo: # path of site logo, e.g. "/images/logo.png"
+logo: "/assets/images/so-simple-site-logo.png"
 date_format: "%B %-d, %Y"
 read_time: # reading time estimates, e.g. true
 words_per_minute: # 200
