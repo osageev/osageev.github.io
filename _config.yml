@@ -4,7 +4,7 @@
 # These are used to personalize your new site.
 # GitHub Pages-compatible theme setup
 # theme: jekyll-theme-so-simple
-remote_theme: mmistakes/so-simple-theme
+remote_theme: "mmistakes/so-simple-theme"
 
 skin: "/assets/css/skins/default.css"
 locale: en-US
@@ -89,3 +89,5 @@ footer_links:
   - title: Feed
     url: atom.xml
     icon: fas fa-rss-square
+
+# trigger rebuild
