@@ -90,23 +90,20 @@ In this video, you can see me play the prompt, then wait for about 10 seconds (a
 
 
 
-We also added “direct controls” that are completely predictable. For example, I can use a small auxiliary keyboard to force modulation to a new key, as can be seen and heard in the last few seconds of the video above.
+We also added “direct controls” that are completely predictable. For example, I can use a small auxiliary keyboard to force modulation to a new key, as can be seen and heard in the last few seconds of the video above. I can also dial up (or down) the system's sensitivity to my own dynamics, which is very fun to play with too.
 
-
-I can also dial up (or down) the system's sensitivity to my own dynamics.
-
-> _[Insert control demo image or video]_
+<!-- _[Insert control demo image or video]_ -->
 
 ### Here’s what it feels like to play with it:
 
 - **Keeps things consistent enough** that I know what to expect.
 - **Surprises are usually delightful**. As we iterated, it went from usually annoying, to sometimes fun, to often fun.
-- The balance between predictability and surprise feels like it's **in a sweet spot** these days
-- **Direct controls are satisfying** to incorporate when I want to, and unobtrusive otherwise
+- The balance between predictability and surprise feels like it's **in a sweet spot** these days.
+- **Direct controls are satisfying** to incorporate when I want to, and unobtrusive otherwise.
 - **It extends what I can do** — I can explore playing over my own grooves. 
-- **Signals big shifts clearly** via a visual interface [include image]. I can see and hear them coming a bar or two in advance and adjust my playing accordingly.
+- **Signals big shifts clearly** via a visual interface. I can see and hear them coming a bar or two in advance and adjust my playing accordingly.
 
-People have been asking me, “How does this compare with playing with another person?” And the truth is: it’s not meant to replace that. It has infinite patience, but limited adaptability. You can’t hand it a lead sheet, and it won't notice if mid-jam I started to play a tune we both know.
+People have been asking me, “How does this compare with playing with another person?” And the truth is: it’s not meant to replace that. It has infinite patience, but limited adaptability. You can’t hand it a lead sheet, and it won't notice if mid-jam I segue into playing a tune we both know.
 
 But compared to practicing alone? It does an amazing thing: it fills a specific gap I sometimes felt when practising solo: wanting a responsive, dynamic groove companion that reflects and expands on my own vocabulary — and every now and then surprises me. And that’s exactly what it’s become.
 
@@ -125,7 +122,7 @@ First, just me playing a montuno-like suggestion (10 sec):
 In this 10-second video, I play a montuno-like suggestion, which you'll hear the system pick up on and play around with in the next videos.
   </figcaption>
 </figure>
-Next, we can watch and listen to a couple of excerpts from the session that started with that prompt:
+Now here are two excerpts from the session that started with that prompt:
 <figure>
   <iframe width="560" height="315" src="https://www.youtube.com/embed/kT1P5SgqbrE?rel=0&modestbranding=1" 
   frameborder="0" allow="accelerometer; clipboard-write; encrypted-media; gyroscope; picture-in-picture" 
@@ -142,7 +139,7 @@ Excerpt 1 from the session that started with the Montuno-like suggestion.  </fig
 Excerpt 2 from the session that started with the Montuno-like suggestion. Notice that the system has changed the groove by this point. However, a few seconds after this video starts, it seamlessly brings it back to the montuno feel! (You might need to listen carefully!)  </figcaption>
 </figure>
 
-Finally one more short video from yet another session, demonstrating a different groove feel from the above videos.
+Finally, one more short video from another session that demonstrates a different groove feel from the above videos.
 
 
 <figure>
@@ -161,7 +158,6 @@ More to come!
 
 ---
 
-[^1]: The current version of the system was created by Finlay Miller, Chandramouli Shama Sastry, Sri Harsha Dumpala, Scott Lowe, Dani Oore, and myself. I wrote this post with their feedback, so even though it's a first person account, the post can be cited as 
-Sageev Oore, Finlay Miller, Chandramouli Shama Sastry, Sri Harsha Dumpala, Dani Oore, Scott Lowe, "Introducing A Musician-Designed Smart Looper", Blog Post, 2025-06-15
+[^1]: The current version of the system was created by Finlay Miller, Chandramouli Shama Sastry, Sri Harsha Dumpala, Scott Lowe, Dani Oore, and myself. I wrote this post with their feedback, so even though it's a first person account, the post can be cited as: Sageev Oore, Finlay Miller, Chandramouli Shama Sastry, Sri Harsha Dumpala, Dani Oore, Scott Lowe, "Introducing A Musician-Designed Smart Looper", Blog Post, 2025-06-15
 [^2]: <a href="mailto:&#111;&#115;&#097;&#103;&#101;&#101;&#118;&#064;&#103;&#109;&#097;&#105;&#108;&#046;&#099;&#111;&#109;?subject=DK%20demo%20question%20from%20blogpost">Email me</a>
 
