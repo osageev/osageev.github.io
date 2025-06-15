@@ -5,12 +5,13 @@ date: 2025-06-14
 excerpt: "Introducing SmartLooper — a musician-first AI tool that’s creative, expressive, and fun to play with."
 ---
 
+![A Piano](/assets/images/dk.jpeg)
 
 # Introducing A Musician-Designed Smart Looper
 
 While SmartLooper was created and implemented by ML researchers [^1], I started the design by asking myself, as a musician:
 
- ** *“Forget about AI: what tool would you love to have?”* ** 
+> *“Forget about AI: what tool would you love to have?”*
 
 The answer was simple and immediate: I wanted to create a groove at my piano, and play along with it. That's it. But I didn’t want just another looping pedal. I wanted the groove played as if I were holding it down myself — keeping the feel, and also letting it gradually evolve and unfold.
 
@@ -60,8 +61,12 @@ SmartLooper is satisfying, engaging, and exciting to play: I now look forward to
 
 So what actually happens? What does this SmartLooper do?
 
-I start by playing a groove — usually just a few bars. I use a foot pedal to mark the rough start and stop points.[include photo and comment on using keyboard control pedal] You can think of what I play as a musical prompt.
+I start by playing a groove — usually just a few bars. I use a foot pedal to mark the rough start and stop points. You can think of what I play as a musical prompt.
 
+<!-- delete the '-foot' to delete my foot!-->
+![Picture of piano pedals](/assets/images/pedal-foot.jpeg)
+
+*markdown doesn't properly support picture captions but you can italicize a line underneath if you want*
 
 SmartLooper then takes that prompt and looks for a good excerpt within it — maybe the whole thing, maybe just 8 beats, maybe half of it. The system is more effective and enjoyable to improvise with when it lets me be loose and exploratory at the start.
 
