@@ -1,16 +1,19 @@
 # Sample Authors
-# Remove file or replace with your own
 
-Billy Rick:
-  name: Billy Rick
-  picture: /images/bio-photo-2.jpg
-  twitter: "@billyrick"
+sageev:
+  name: Sageev Oore
+  picture: /images/sageev.jpg  # optional, if you have a picture
   links:
+    - title: GitHub
+      url: https://github.com/osageev
+      icon: fab fa-github
+    - title: Email
+      url: mailto:osageev@gmail.com
+      icon: fas fa-envelope
     - title: Twitter
-      url: https://twitter.com/billyrick
-      icon: fab fa-twitter-square
+      url: https://twitter.com/osageev
+      icon: fab fa-twitter
+    - title: Bluesky
+      url: https://bsky.app/profile/sageev.bsky.social
+      icon: fas fa-cloud  # or 'fas fa-link' if you prefer a generic icon
 
-Cornelius Fiddlebone:
-  name: Cornelius Fiddlebone
-  picture: /images/bio-photo.jpg
-  twitter: corneliusfiddlebone

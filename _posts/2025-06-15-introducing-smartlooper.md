@@ -3,7 +3,7 @@ layout: post
 title: Introducing A Musician-Designed Smart Looper
 date: 2025-06-14
 excerpt: Introducing SmartLooper — a musician-first AI tool that’s expressive and fun to play with.
-author: Sageev Oore
+author: sageev
 ---
 
 <!-- ![A Piano](/assets/images/dk.jpeg) -->
@@ -58,7 +58,7 @@ We bounced between steps such as:
 
 We’d iterate on the system’s internals, fix one thing, break another, fix that, try again. Slowly, the experience evolved from frequent *"this is frustrating"* to often: *"this is awesome to play with."*  <!--<small>(Aside: I’ve got opinions about the limitations of many "AI music tools"—but I’ll save that slight rant for another post.)</small> -->
 
->SmartLooper is satisfying, engaging, and exciting to play: I now look forward to coming back to it every time and trying out new musical things! And it feels musically rewarding. That's no small thing.
+SmartLooper is satisfying, engaging, and exciting to play: I now look forward to coming back to it every time and trying out new musical things! And it feels musically rewarding. That's no small thing.
 
 ## Step 3: Playing a Duet (with Sort of Myself)
 
