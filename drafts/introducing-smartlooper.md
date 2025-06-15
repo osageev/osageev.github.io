@@ -1,8 +1,8 @@
 ---
 layout: post
-title: "Feeling Groovy: A Musician-designed Smart Looper"
+title: Introducing A Musician-Designed Smart Looper
 date: 2025-06-14
-excerpt: "Introducing SmartLooper — a musician-first AI tool that’s creative, expressive, and fun to play with."
+excerpt: Introducing SmartLooper — a musician-first AI tool that’s creative, expressive, and fun to play with.
 ---
 
 <!-- ![A Piano](/assets/images/dk.jpeg) -->
@@ -80,7 +80,7 @@ SmartLooper then takes that prompt and looks for a good excerpt within it — ma
 From there, it loops that excerpt as a groove — but not rigidly. It slowly and subtly shifts things around. The feel stays intact, but the loop evolves.
 
 <figure>
-  <iframe width="560" height="315" src="https://youtu.be/CXNW2Khv7oA?rel=0&modestbranding=1" 
+  <iframe width="560" height="315" src="https://www.youtube.com/embed/CXNW2Khv7oA?rel=0&modestbranding=1" 
   frameborder="0" allow="accelerometer; clipboard-write; encrypted-media; gyroscope; picture-in-picture" 
   allowfullscreen></iframe>
 <figcaption style="font-size: 0.9em; color: #666;">
