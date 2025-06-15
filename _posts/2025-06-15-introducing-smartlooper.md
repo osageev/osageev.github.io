@@ -16,9 +16,7 @@ While SmartLooper was created and implemented by ML researchers [^1], I started 
 
 The answer was simple and immediate: I wanted to create a groove at my piano, and then play along with it. That's it. But I didn’t want just another looping pedal. I wanted the groove played as if I were holding it down myself — keeping the feel, and also letting it gradually evolve and unfold.
 
-So that’s what we made. And honestly? It’s one of *the. most. fun.* AI-music tools I’ve ever used. (And it's still in development — so it's getting more fun all the time!) Part of what makes it so engaging is that the AI is secondary: it is just a *means to a creative end*.
-
-About the SmartLooping idea: it’s one of those concepts which might seem obvious in hindsight, and it's easy to run with once it's been outlined. (Though if it were really that obvious, I'd think we'd have had systems doing this years ago.) It fills a gap, it sounds great, and the tech is ripe for it. We’re really excited about all of this.
+So that’s what we made. And honestly? It’s one of *the. most. fun.* AI-music tools I’ve ever used. (And it's still in development — so it's getting more fun all the time!) Part of what makes it so engaging is that the AI is secondary: it is just ***a means to a creative end***. And while that end, i.e. an intelligent dynamic looping framework, is one of those concepts which might seem obvious in hindsight, <!--and perhaps easy to run with once it's been outlined. (Though if it were really that obvious, I'd think we'd have had systems doing this years ago.) --> it fills a gap, it sounds great, and the tech is ripe for it. We’re really excited about all of this.
 
 This post introduces SmartLooper from a musician's point of view. We’ll share more demos and technical details in future posts. But first, here’s how it all started.
 
@@ -83,7 +81,7 @@ From there, it loops that excerpt as a groove — but not rigidly. It slowly and
   frameborder="0" allow="accelerometer; clipboard-write; encrypted-media; gyroscope; picture-in-picture" 
   allowfullscreen></iframe>
 <figcaption style="font-size: 0.9em; color: #666;">
-This video starts with me playing the prompt, then a long 15 second silence. Finally notes appear on the laptop screen indicating the system is about to start playing. (For the musician, a progress bar fortunately tracks all this). The system first plays back part of my prompt, and then starts gently riffing on it while I improvise over it. If you listen closely, you can hear that the system is subtly but effectively varying the notes that it's playing, while keeping the feel intact.
+This video starts with me playing the prompt, then a long 15 second silence. Finally notes appear on the laptop screen indicating the system is about to start playing. (fortunately a progress bar tracks all this). The system first plays back part of my prompt, and then starts gently riffing on it while I improvise over it. If you listen closely, you can hear that the system is subtly but effectively varying the notes that it's playing, while keeping the feel intact.
   </figcaption>
 </figure>
 
