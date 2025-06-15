@@ -8,7 +8,7 @@ remote_theme: "mmistakes/so-simple-theme"
 
 skin: "/assets/css/skins/default.css"
 locale: en-US
-title: "sageev oore blog"
+title: "blog"
 description: "notes on music, AI, creativity, and more"
 baseurl: "" # leave blank unless you're using a subpath like "/blog"
 url: "https://osageev.github.io"
