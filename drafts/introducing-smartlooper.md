@@ -118,7 +118,7 @@ First, just me playing a montuno-like suggestion (10 sec):
 
 
 <figure>
-  <iframe width="560" height="315" src="https://youtu.be/gwAdo0wm_xs?rel=0&modestbranding=1" 
+  <iframe width="560" height="315" src="https://www.youtube.com/embed/gwAdo0wm_xs?rel=0&modestbranding=1" 
   frameborder="0" allow="accelerometer; clipboard-write; encrypted-media; gyroscope; picture-in-picture" 
   allowfullscreen></iframe>
 <figcaption style="font-size: 0.9em; color: #666;">
@@ -127,7 +127,7 @@ In this 10-second video, I play a montuno-like suggestion, which you'll hear the
 </figure>
 Next, we can watch and listen to a couple of excerpts from the session that started with that prompt:
 <figure>
-  <iframe width="560" height="315" src="https://youtu.be/kT1P5SgqbrE?rel=0&modestbranding=1" 
+  <iframe width="560" height="315" src="https://www.youtube.com/embed/kT1P5SgqbrE?rel=0&modestbranding=1" 
   frameborder="0" allow="accelerometer; clipboard-write; encrypted-media; gyroscope; picture-in-picture" 
   allowfullscreen></iframe>
 <figcaption style="font-size: 0.9em; color: #666;">
@@ -135,7 +135,7 @@ Excerpt 1 from the session that started with the Montuno-like suggestion.  </fig
 </figure>
 
 <figure>
-  <iframe width="560" height="315" src="https://youtu.be/qd7DQ2bpWYo?rel=0&modestbranding=1" 
+  <iframe width="560" height="315" src="https://www.youtube.com/embed/qd7DQ2bpWYo?rel=0&modestbranding=1" 
   frameborder="0" allow="accelerometer; clipboard-write; encrypted-media; gyroscope; picture-in-picture" 
   allowfullscreen></iframe>
 <figcaption style="font-size: 0.9em; color: #666;">
@@ -146,7 +146,7 @@ Finally one more short video from yet another session, demonstrating a different
 
 
 <figure>
-  <iframe width="560" height="315" src="https://youtu.be/cYlKa5bzd4Y?rel=0&modestbranding=1" 
+  <iframe width="560" height="315" src="https://www.youtube.com/embed/cYlKa5bzd4Y?rel=0&modestbranding=1" 
   frameborder="0" allow="accelerometer; clipboard-write; encrypted-media; gyroscope; picture-in-picture" 
   allowfullscreen></iframe>
 <figcaption style="font-size: 0.9em; color: #666;">
