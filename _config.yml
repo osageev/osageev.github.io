@@ -74,11 +74,11 @@ defaults:
       share: true
 
 # Site Author
-author:
-  name:
+author: 
+  name: Sageev Oore
   picture:
-  email:
-  twitter:
+  email: osageev@gmail.com
+  twitter: osageev
   links:
     - title:
       url:

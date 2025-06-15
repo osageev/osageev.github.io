@@ -8,7 +8,7 @@ author: Sageev Oore
 
 <!-- ![A Piano](/assets/images/dk.jpeg) -->
 
-# Introducing A Musician-Designed Smart Looper
+<!--# Introducing A Musician-Designed Smart Looper -->
 
 While SmartLooper was created and implemented by ML researchers [^1], I started the design by asking myself, as a musician:
 
@@ -56,11 +56,9 @@ We bounced between steps such as:
 - Debugging: At first the system was nearly unplayable. It seemed there was always something... but then...
 - Spotting glimmers of something cool... and then chasing them! (whooohoo)
 
-We’d iterate on the system’s internals, fix one thing, break another, fix that, try again. Slowly, the experience evolved from frequent "this is frustrating" to often: "this is awesome to play with."
+We’d iterate on the system’s internals, fix one thing, break another, fix that, try again. Slowly, the experience evolved from frequent *"this is frustrating"* to often: *"this is awesome to play with."*  <!--<small>(Aside: I’ve got opinions about the limitations of many "AI music tools"—but I’ll save that slight rant for another post.)</small> -->
 
-> Side note: I’ve got opinions about the limitations of many "AI music tools"—but I’ll save that slight rant for another post.
-
-SmartLooper is satisfying, engaging, and exciting to play: I now look forward to coming back to it every time and trying out new musical things! And it feels musically rewarding. That's no small thing.
+>SmartLooper is satisfying, engaging, and exciting to play: I now look forward to coming back to it every time and trying out new musical things! And it feels musically rewarding. That's no small thing.
 
 ## Step 3: Playing a Duet (with Sort of Myself)
 
@@ -85,7 +83,7 @@ From there, it loops that excerpt as a groove — but not rigidly. It slowly and
   frameborder="0" allow="accelerometer; clipboard-write; encrypted-media; gyroscope; picture-in-picture" 
   allowfullscreen></iframe>
 <figcaption style="font-size: 0.9em; color: #666;">
-In this video, you can see me play the prompt, then wait for about 10 seconds (a long silence)  until notes start appearing on the screen, indicating that the system is about to start playing (5 more seconds of silence---for the musician, there is fortunately a progress bar to mark this waiting). It first plays back part of my prompt, and then starts gently riffing on it while I improvise over it. If you listen closely, you can hear that the system is subtly but effectively varying the notes that it's playing, while keeping the feel intact.
+This video starts with me playing the prompt, then a long 15 second silence. Finally notes appear on the laptop screen indicating the system is about to start playing. (For the musician, a progress bar fortunately tracks all this). The system first plays back part of my prompt, and then starts gently riffing on it while I improvise over it. If you listen closely, you can hear that the system is subtly but effectively varying the notes that it's playing, while keeping the feel intact.
   </figcaption>
 </figure>
 
