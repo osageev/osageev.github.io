@@ -16,7 +16,7 @@ While SmartLooper was created and implemented by ML researchers [^1], I started 
 
 The answer was simple and immediate: I wanted to create a groove at my piano, and then play along with it. That's it. But I didn’t want just another looping pedal. I wanted the groove played as if I were holding it down myself — keeping the feel, and also letting it gradually evolve and unfold.
 
-So that’s what we made. And honestly? It’s one of *the. most. fun.* AI-music tools I’ve ever used. (And it's still in development — so it's getting more fun all the time!) Part of what makes it so engaging is that the AI is secondary: it is just ***a means to a creative end***. And while that end, i.e. an intelligent dynamic looping framework, is one of those concepts which might seem obvious in hindsight, <!--and perhaps easy to run with once it's been outlined. (Though if it were really that obvious, I'd think we'd have had systems doing this years ago.) --> it fills a gap, it sounds great, and the tech is ripe for it. We’re really excited about all of this.
+So that’s what we made. And it's turning out to be one of the funnest AI-music tools I’ve had the opportunity to use. (And it's still in development--- so it's evolving in exciting ways.) I believe part of what makes it engaging is that the AI is secondary: it is just ***a means to a creative end***. And while that end, i.e. an intelligent dynamic looping framework, is one of those concepts which might seem obvious in hindsight, <!--and perhaps easy to run with once it's been outlined. (Though if it were really that obvious, I'd think we'd have had systems doing this years ago.) --> it fills a gap, it sounds great, and the tech is ripe for it. We’re excited by all of it.
 
 This post introduces SmartLooper from a musician's point of view. We’ll share more demos and technical details in future posts. But first, here’s how it all started.
 
@@ -24,9 +24,10 @@ This post introduces SmartLooper from a musician's point of view. We’ll share 
 
 Over a period of many months, I collected my own playing data. Just a little at a time — 20 minutes here, 30 minutes there — and over time it added up.
 
-On what did I collect it? A Yamaha Disklavier—a real (& good) piano with MIDI in/out. Think: Yamaha grand meets USB port.
+On what did I collect it? A Yamaha Disklavier—a real (& good) piano with MIDI in/out. Think: Yamaha grand meets USB port. 
+( <!--[Here are more examples](/disklavier-resources) of cool digital projects with acoustic pianos.--> For more awesome examples of projects with digital extensions of acoustic pianos, check out *Surface Tension* by [Eve Egoyan](https://eveegoyan.com/piano-next-3/) & [David Rokeby](http://www.davidrokeby.com/SurfaceTension.html), [Pablo Samuel Castro](https://www.youtube.com/@PabloCastro/videos)'s video channel, [Piano Genie](https://magenta.tensorflow.org/pianogenie) by Chris Donahue, Ian Simon, and Sander Dieleman, and [Dan Tepfer](https://dantepfer.com/)'s *Natural Machines* and other projects-- so many cool and beautiful things...)
 
-I usually plug it into Ableton Live, but other DAWs work fine too. I mainly collect MIDI, but there's always an audio input recording as well.
+I usually plug the piano into Ableton Live, but other DAWs work fine too. I mainly collect MIDI, but there's always an audio input recording as well.
 
 
 <figure style="text-align: center; margin: 2em 0;">
@@ -87,7 +88,7 @@ This video starts with me playing the prompt, then a long 15 second silence. Fin
 
 
 
-We also added “direct controls” that are completely predictable. For example, I can use a small auxiliary keyboard to force modulation to a new key, as can be seen and heard in the last few seconds of the video above. I can also dial up (or down) the system's sensitivity to my own dynamics, which is very fun to play with too.
+We also added “direct controls” that are completely predictable. For example, I can use a small auxiliary keyboard to force modulation to a new key, as can be seen and heard in the last few seconds of the video above. I can also dial up (or down) the system's sensitivity to my own dynamics, which is fun to play with too.
 
 <!-- _[Insert control demo image or video]_ -->
 
