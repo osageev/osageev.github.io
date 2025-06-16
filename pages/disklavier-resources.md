@@ -1,7 +1,7 @@
 ---
 layout: page
-title: Cool Projects that Digitally Extend Acoustic Pianos
-permalink: /disklavier-links/
+title: Digitally Extending Acoustic Pianos
+permalink: /disklavier-resources/
 author: sageev
 ---
 
