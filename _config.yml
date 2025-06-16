@@ -28,7 +28,7 @@ google_fonts:
   - name: "Lora"
     weights: "400,400i,700,700i"
 
-google_analytics: # Google Analytics id
+google_analytics: G-J56N4PDT6L
 disqus:
   shortname: # Disqus shortname
 
