@@ -10,9 +10,7 @@ author: sageev
 
 <!--# Introducing A Musician-Designed Smart Looper -->
 
-When I read about a new AI-music system, the first (and sometimes only) thing I want to know is how it sounds, how does it feel. Here's how our SmartLooper system currently sounds when I'm playing with it:
-
-
+When I read about a new AI-music system, the first thing I want to know is how it sounds, how does it feel. Here's how our SmartLooper system currently sounds and looks when I'm playing with it:
 <figure style="max-width: 420px; margin: 1.5em auto;">
   <div style="position: relative; padding-bottom: 56.25%; height: 0; overflow: hidden;">
     <iframe src="https://www.youtube.com/embed/onPetq4gJ18?rel=0&modestbranding=1"
@@ -23,7 +21,6 @@ When I read about a new AI-music system, the first (and sometimes only) thing I 
     </iframe>
   </div>
 </figure>
-
 While SmartLooper was created and implemented by ML researchers [^1], I started the design by asking myself, as a musician:
 
 > *“Forget about AI: what tool would you love to have?”*
