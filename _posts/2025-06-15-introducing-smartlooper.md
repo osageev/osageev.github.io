@@ -16,7 +16,7 @@ While SmartLooper was created and implemented by ML researchers [^1], I started 
 
 The answer was simple and immediate: I wanted to create a groove at my piano, and then play along with it. That's it. But I didn’t want just another looping pedal. I wanted the groove played as if I were holding it down myself — keeping the feel, and also letting it gradually evolve and unfold.
 
-So that’s what we made. And it's turning out to be one of the funnest AI-music tools I’ve had the opportunity to use. (And it's still in development--- so it's evolving in exciting ways.) I believe part of what makes it engaging is that the AI is secondary: it is just ***a means to a creative end***. And while that end, i.e. an intelligent dynamic looping framework, is one of those concepts which might seem obvious in hindsight, <!--and perhaps easy to run with once it's been outlined. (Though if it were really that obvious, I'd think we'd have had systems doing this years ago.) --> it fills a gap, it sounds great, and the tech is ripe for it. We’re excited by all of it.
+So that’s what we made. And it's turning out to be one of the funnest AI-music tools I’ve had the opportunity to use. (And it's still in development--- so it's evolving in exciting ways.) I believe part of what makes it engaging is that the AI is secondary: it is just ***a means to a creative end***. And while that end, i.e. an intelligent dynamic looping framework, is one of those concepts that might seem obvious in hindsight, <!--and perhaps easy to run with once it's been outlined. (Though if it were really that obvious, I'd think we'd have had systems doing this years ago.) --> it fills a gap, it sounds great, and the tech is ripe for it. We’re excited by all of it.
 
 This post introduces SmartLooper from a musician's point of view. We’ll share more demos and technical details in future posts. But first, here’s how it all started.
 
@@ -44,20 +44,18 @@ That data became the crucial foundation of something surprising: a system that s
 
 ## Step 2: Iterating Towards Playability
 
-Here’s where things got interestingly messy.
+<!--Here’s where things got interestingly messy.-->
 
-With initial data in place, we began building, testing, and tweaking the system. It wasn’t just about getting it to work—it was about making it playable.
+With initial data in place, we began building, testing, and tweaking the system. <!--It wasn’t just about getting it to work—it was about making it playable.--> We bounced between steps such as:
 
-We bounced between steps such as:
+- **Absorbing data**: cleaning it, throwing some of it, and collecting more
+- **Parsing the spoken audio** using Whisper (remember, everything was being recorded) to pull out spontaneous practice notes, annotations and instructions I said aloud
+- **Debugging**: At first the system was nearly unplayable. It seemed there was always something... but then...
+- **Spotting glimmers** of something cool... and then chasing them! (whooohoo)
 
-- Absorbing data: cleaning it, throwing some of it, and collecting more
-- Parsing the spoken audio using Whisper (remember, everything was being recorded) to pull out spontaneous practice notes and musical instructions I said aloud
-- Debugging: At first the system was nearly unplayable. It seemed there was always something... but then...
-- Spotting glimmers of something cool... and then chasing them! (whooohoo)
+We’d iterate on the system’s internals, fix one thing, break another, try again. Slowly, the experience evolved from frequent *"this is frustrating"* to often: *"this is awesome to play with."*  <!--<small>(Aside: I’ve got opinions about the limitations of many "AI music tools"—but I’ll save that slight rant for another post.)</small> -->
 
-We’d iterate on the system’s internals, fix one thing, break another, fix that, try again. Slowly, the experience evolved from frequent *"this is frustrating"* to often: *"this is awesome to play with."*  <!--<small>(Aside: I’ve got opinions about the limitations of many "AI music tools"—but I’ll save that slight rant for another post.)</small> -->
-
-SmartLooper is satisfying, engaging, and exciting to play: I now look forward to coming back to it every time and trying out new musical things! And it feels musically rewarding. That's no small thing.
+SmartLooper is satisfying and engaging to play: I'm often excited to come back to it and try out new musical things, and it feels musically rewarding. <!--That's no small thing.-->
 
 ## Step 3: Playing a Duet (with Sort of Myself)
 
@@ -103,7 +101,7 @@ We also added “direct controls” that are completely predictable. For example
 
 People have been asking me, “How does this compare with playing with another person?” And the truth is: it’s not meant to replace that. It has infinite patience, but limited adaptability. You can’t hand it a lead sheet, and it won't notice if mid-jam I segue into playing a tune we both know.
 
-But compared to practicing alone? It does an amazing thing: it fills a specific gap I sometimes felt when practising solo: wanting a responsive, dynamic groove companion that reflects and expands on my own vocabulary — and every now and then surprises me. And that’s exactly what it’s become.
+Ok, so, compared to practicing alone? Well, it's not meant to replace that either. By any stretch. But it does do one amazing thing: it fills a specific gap I sometimes felt when practising solo: wanting a responsive, dynamic groove companion that reflects and expands on my own vocabulary — and every now and then surprises me. <!--And that’s exactly what it’s become.-->
 
 ## What’s Next
 
