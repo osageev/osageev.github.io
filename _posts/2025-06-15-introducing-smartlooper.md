@@ -1,6 +1,6 @@
 ---
 layout: post
-title: An Introduction to SmartLooper
+title: Introducing SmartLooper
 date: 2025-06-14
 excerpt: Introducing SmartLooper — a musician-first AI tool that’s expressive and fun to play with.
 author: sageev
