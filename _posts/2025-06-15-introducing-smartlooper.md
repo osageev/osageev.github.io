@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Introducing A Musician-Designed Smart Looper
+title: "An Introduction to SmartLooper: a Musician-Designed Dynamic Looping Framework"
 date: 2025-06-14
 excerpt: Introducing SmartLooper — a musician-first AI tool that’s expressive and fun to play with.
 author: sageev
