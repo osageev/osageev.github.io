@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "An Introduction to SmartLooper: a Musician-Designed Dynamic Looping Framework"
+title: An Introduction to SmartLooper
 date: 2025-06-14
 excerpt: Introducing SmartLooper — a musician-first AI tool that’s expressive and fun to play with.
 author: sageev
@@ -8,7 +8,7 @@ author: sageev
 
 <!-- ![A Piano](/assets/images/dk.jpeg) -->
 
-<!--# Introducing A Musician-Designed Smart Looper -->
+# A Musician-Designed Dynamic Looping Framework
 
 When I read about a new AI-music system, the first thing I want to know is how it sounds, how does it feel. Here's how our SmartLooper system currently sounds and looks when I'm playing with it:
 <figure style="max-width: 420px; margin: 1.5em auto;">
