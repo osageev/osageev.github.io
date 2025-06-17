@@ -105,7 +105,7 @@ We also added “direct controls” that are completely predictable. For example
 
 - **Keeps things consistent enough** that I know what to expect.
 - **Surprises are usually delightful**. As we iterated, it went from usually annoying, to sometimes fun, to often fun.
-- The balance between predictability and surprise feels like it's **in a sweet spot** these days.
+- **A balance between predictability and surprise** that feels like it's in a sweet spot these days.
 - **Direct controls are satisfying** to incorporate when I want to, and unobtrusive otherwise.
 - **It extends what I can do** — I can explore playing over my own grooves. 
 - **Signals big shifts clearly** via a visual interface. I can see and hear them coming a bar or two in advance and adjust my playing accordingly.
