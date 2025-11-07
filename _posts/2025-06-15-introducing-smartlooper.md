@@ -165,6 +165,6 @@ More to come!
 
 ---
 
-[^1]: The current version of the system was created by Finlay Miller, Chandramouli Shama Sastry, Sri Harsha Dumpala, Scott Lowe, Dani Oore, and myself. I wrote this post with their feedback, so even though it's a first person account, the post can be cited as: Sageev Oore, Finlay Miller, Chandramouli Shama Sastry, Sri Harsha Dumpala, Dani Oore, Scott Lowe, "An Introduction to SmartLooper: A Musician-Designed Dynamic Looping Framework", Blog Post, https://osageev.github.io/introducing-smartlooper/, 2025-06-15
+[^1]: The current version of the system was created by Finlay Miller, Chandramouli Shama Sastry, Sri Harsha Dumpala, Scott Lowe, Dani Oore, and myself. I wrote this post with their feedback, so even though it's a first person account, the post can be cited as: Sageev Oore, Finlay Miller, Chandramouli Shama Sastry, Sri Harsha Dumpala, Dani Oore, Scott Lowe, "Introducing SmartLooper: A Musician-Designed Dynamic Looping Framework", Blog Post, https://osageev.github.io/introducing-smartlooper/, 2025-06-15
 [^2]: <a href="mailto:&#111;&#115;&#097;&#103;&#101;&#101;&#118;&#064;&#103;&#109;&#097;&#105;&#108;&#046;&#099;&#111;&#109;?subject=DK%20demo%20question%20from%20blogpost">Email me</a>
 
