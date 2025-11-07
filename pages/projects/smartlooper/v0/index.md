@@ -1,5 +1,5 @@
 ---
-layout: page
+layout: none
 title: "SmartLooper v0 Demo"
 permalink: /pages/projects/smartlooper/v0/
 ---
