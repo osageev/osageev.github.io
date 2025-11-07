@@ -12,13 +12,15 @@ This page showcases demo videos of the **v0 version** of the SmartLooper system 
 
 ## 🎥 Demo Videos
 
-### Example 1: Prompt + Groove Evolution
+### Example 1
 
 <figure style="text-align: center;">
-  <iframe width="560" height="315" src="https://www.youtube.com/embed/REPLACE_ME" 
+  <iframe width="560" height="315" src="https://www.youtube.com/watch?v=lsXN9bD7Eh0"
   frameborder="0" allow="accelerometer; clipboard-write; encrypted-media; gyroscope; picture-in-picture" 
   allowfullscreen></iframe>
-  <figcaption style="font-size: 0.9em; color: #666;">A 15-second clip showing how the system starts by listening to a prompt, then takes over with dynamic variations.</figcaption>
+  <figcaption style="font-size: 0.9em; color: #666;">tmp video until we move it to a different (non-anonymous)
+youtube link
+</figcaption>
 </figure>
 
 <!-- Repeat for more videos -->
