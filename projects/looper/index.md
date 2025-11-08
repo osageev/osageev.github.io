@@ -4,9 +4,9 @@ title: "SmartLooper v0 Demo"
 permalink: /projects/looper/
 ---
 
-# SmartLooper v0
+# SmartLooper 
 
-This page showcases demo videos of the **v0 version** of the SmartLooper system — our current early-stage prototype. This version accompanies our [blog post](/blog/introducing-smartlooper/) and will be updated as the system evolves.
+This page showcases demo videos of the SmartLooper system — our current early-stage prototype. This version accompanies our [blog post](/blog/introducing-smartlooper/) and will be updated as the system evolves.
 
 ---
 
@@ -30,8 +30,6 @@ youtube link
 
 ## 📝 Notes
 
-- This is a **research prototype**, not a product.
-- Feel free to share with collaborators or colleagues — feedback welcome.
 - Contact: [Email me](/pages/about/#contact) or reach out on [Twitter](https://twitter.com/osageev)
 
 ---
