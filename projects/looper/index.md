@@ -24,6 +24,16 @@ youtube link
 </figure>
 
 <!-- Repeat for more videos -->
+
+<figure style="text-align: center;">
+  <iframe width="560" height="315" src="https://www.youtube.com/embed/tfmDzJYUm3c?rel=0&modestbranding=1"
+  frameborder="0" allow="accelerometer; clipboard-write; encrypted-media; gyroscope; picture-in-picture" 
+  allowfullscreen></iframe>
+  <figcaption style="font-size: 0.9em; color: #666;">tmp video until we move it to a different (non-anonymous)
+youtube link
+</figcaption>
+</figure>
+
 <!-- You can also link to local files under /assets/videos/smartlooper-v0/ -->
 
 ---
