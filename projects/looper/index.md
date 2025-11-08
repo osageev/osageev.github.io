@@ -1,7 +1,7 @@
 ---
 layout: none
 title: "SmartLooper v0 Demo"
-permalink: /pages/projects/smartlooper/v0/
+permalink: /projects/looper/
 ---
 
 # SmartLooper v0
