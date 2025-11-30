@@ -8,6 +8,9 @@ author: sageev
 categories:
   - blog
 permalink: /blog/introducing-smartlooper/
+image:
+  path: /assets/images/dk.jpeg
+  thumbnail: /assets/images/dk.jpeg
 ---
 
 <!-- ![A Piano](/assets/images/dk.jpeg) -->

@@ -3,6 +3,7 @@ layout: category
 title: blog
 permalink: /blog/
 taxonomy: blog
+entries_layout: grid
 ---
 
 Welcome to the blog. 
