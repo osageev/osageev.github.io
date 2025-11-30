@@ -47,7 +47,7 @@ sitemap: false
 
 /* Wrapper around the top-of-post image */
 .page-image {
-  max-height: 180px;         /* height of the banner */
+  max-height: 200px;         /* height of the banner */
   overflow: hidden;          /* hide the rest of the image */
   margin-bottom: 2rem;
 }
@@ -57,7 +57,7 @@ sitemap: false
   width: 100%;
   height: 180px;             /* match the wrapper height */
   object-fit: cover;         /* fill the box, cropping instead of stretching */
-  object-position: 50% 80%;   /* fine-tune the position of the slice */
+  object-position: 30% 50%;   /* fine-tune the position of the slice */
   display: block;
 }
 
