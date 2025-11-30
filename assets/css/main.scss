@@ -43,3 +43,21 @@ sitemap: false
   border-bottom-color: currentColor;
 }
 
+/* --- Hero image: make it a thin banner ---------------------------------- */
+
+/* Wrapper around the top-of-post image */
+.page-image {
+  max-height: 180px;         /* height of the banner */
+  overflow: hidden;          /* hide the rest of the image */
+  margin-bottom: 2rem;
+}
+
+/* The actual hero image */
+.page-image img {
+  width: 100%;
+  height: 180px;             /* match the wrapper height */
+  object-fit: cover;         /* fill the box, cropping instead of stretching */
+  object-position: 50% 80%;   /* fine-tune the position of the slice */
+  display: block;
+}
+
