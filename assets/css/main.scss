@@ -49,6 +49,7 @@ sitemap: false
 .page-image {
   max-height: 200px;         /* height of the banner */
   overflow: hidden;          /* hide the rest of the image */
+  margin-top: 0;             /* ⬅️ important: stop it from overlapping the nav */
   margin-bottom: 2rem;
 }
 
