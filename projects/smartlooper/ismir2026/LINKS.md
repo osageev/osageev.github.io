@@ -43,3 +43,11 @@ system-demonstration
 - Final video targets: TBD
 - Status: Replace with final non-anonymized videos.
 
+
+## spontaneous-interaction
+
+- Paper URL: https://osageev.github.io/projects/smartlooper/ismir2026/videos/spontaneous-interaction/
+- Previous reference: `\projpageurl/#video5`
+- Final video target: TBD
+
+
