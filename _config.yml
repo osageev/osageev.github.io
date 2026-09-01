@@ -43,6 +43,12 @@ liquid:
 permalink: /:categories/:title/
 markdown: kramdown
 
+# Plain-language articles for consulting and organizational audiences.
+collections:
+  insights:
+    output: true
+    permalink: /insights/:name/
+
 feed:
   path: atom.xml
 
@@ -71,6 +77,12 @@ defaults:
       type: posts
     values:
       layout: post
+      share: true
+  - scope:
+      path: ""
+      type: insights
+    values:
+      layout: insight
       share: true
 
 # Site Author

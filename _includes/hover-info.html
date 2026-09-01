@@ -1,0 +1,5 @@
+{%- comment -%}
+Usage in an Insights Markdown file:
+{% include hover-info.html term="token" info="A small unit of text processed by a language model." %}
+{%- endcomment -%}
+<button type="button" class="insight-term" aria-expanded="false" aria-label="{{ include.term | strip_html | escape }}. More information: {{ include.info | strip_html | escape }}"><span class="insight-term-label">{{ include.term }}</span><span class="insight-tooltip" aria-hidden="true" role="tooltip">{{ include.info }}</span></button>

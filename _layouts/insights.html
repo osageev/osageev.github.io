@@ -1,0 +1,49 @@
+---
+layout: default
+---
+
+<main id="main" class="main-content insights-main" aria-label="Content">
+  <section class="insights-hero" aria-labelledby="insights-title">
+    <div class="insights-shell">
+      <p class="insights-kicker">Sageev Oore</p>
+      <h1 id="insights-title">{{ page.title }}</h1>
+      <div class="insights-introduction">
+        {{ content }}
+      </div>
+    </div>
+  </section>
+
+  <section class="insights-listing" aria-labelledby="insights-articles-title">
+    <div class="insights-shell">
+      <div class="insights-listing-header">
+        <h2 id="insights-articles-title">Articles</h2>
+        <p>Plain-language guides and perspectives on artificial intelligence.</p>
+      </div>
+
+      {% assign insight_entries = site.insights | sort: "date" | reverse %}
+      {% if insight_entries.size > 0 %}
+        <div class="insights-grid">
+          {% for entry in insight_entries %}
+            <article class="insight-card">
+              <p class="insight-card-label">Insight</p>
+              <h3><a href="{{ entry.url | relative_url }}">{{ entry.title }}</a></h3>
+              {% if entry.excerpt %}
+                <div class="insight-card-excerpt">{{ entry.excerpt | markdownify }}</div>
+              {% endif %}
+              <div class="insight-card-meta">
+                {% if entry.date %}
+                  <time datetime="{{ entry.date | date_to_xmlschema }}">{{ entry.date | date: site.date_format }}</time>
+                {% endif %}
+                <a class="insight-card-link" href="{{ entry.url | relative_url }}" aria-label="Read {{ entry.title | escape }}">Read article <span aria-hidden="true">→</span></a>
+              </div>
+            </article>
+          {% endfor %}
+        </div>
+      {% else %}
+        <div class="insights-empty">
+          <p>New articles are coming soon.</p>
+        </div>
+      {% endif %}
+    </div>
+  </section>
+</main>
