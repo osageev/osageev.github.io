@@ -17,6 +17,13 @@ date_format: "%B %-d, %Y"
 read_time: # reading time estimates, e.g. true
 words_per_minute: # 200
 
+# Professional identity used only by the Insights section.
+insights_author:
+  name: "Dr. Sageev Oore"
+  credentials:
+    - "Professor, Faculty of Computer Science, Dalhousie University"
+    - "Faculty Affiliate, Vector Institute"
+
 mathjax:
   enable: # MathJax equations, e.g. true, false (default)
   combo:  # "tex-svg" (default), "tex-mml-chtml", etc.

@@ -15,7 +15,7 @@ layout: default
           <div class="insight-deck p-summary">{{ page.excerpt | markdownify }}</div>
         {% endif %}
         <div class="insight-byline">
-          <span>By {{ page.author_name | default: site.author.name }}</span>
+          <span>By {{ page.author_name | default: site.insights_author.name | default: site.author.name }}</span>
           {% if page.date %}
             <span aria-hidden="true">·</span>
             <time class="dt-published" datetime="{{ page.date | date_to_xmlschema }}">{{ page.date | date: site.date_format }}</time>
@@ -25,6 +25,13 @@ layout: default
             <span>Updated {{ page.updated | date: site.date_format }}</span>
           {% endif %}
         </div>
+        {% if site.insights_author.credentials and page.show_author_credentials != false %}
+          <p class="insight-author-credentials">
+            {% for credential in site.insights_author.credentials %}
+              <span class="insight-author-credential">{{ credential }}</span>{% unless forloop.last %}<span class="insight-author-credential-separator" aria-hidden="true">·</span>{% endunless %}
+            {% endfor %}
+          </p>
+        {% endif %}
       </header>
 
       <div class="insight-content e-content">

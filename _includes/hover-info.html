@@ -1,5 +1,8 @@
 {%- comment -%}
 Usage in an Insights Markdown file:
 {% include hover-info.html term="token" info="A small unit of text processed by a language model." %}
+
+Optional link:
+{% include hover-info.html term="token" info="A small unit of text processed by a language model." url="/insights/tokens/" link_text="Read more" %}
 {%- endcomment -%}
-<button type="button" class="insight-term" aria-expanded="false" aria-label="{{ include.term | strip_html | escape }}. More information: {{ include.info | strip_html | escape }}"><span class="insight-term-label">{{ include.term }}</span><span class="insight-tooltip" aria-hidden="true" role="tooltip">{{ include.info }}</span></button>
+{%- assign hover_id = include.id | default: include.term | slugify | prepend: "insight-note-" -%}{%- assign hover_url = include.url -%}{%- if include.url -%}{%- unless hover_url contains "://" -%}{%- assign hover_url = hover_url | relative_url -%}{%- endunless -%}{%- endif -%}<span class="insight-term"><button type="button" class="insight-term-trigger" aria-expanded="false" aria-describedby="{{ hover_id }}"><span class="insight-term-label">{{ include.term }}</span></button><span id="{{ hover_id }}" class="insight-tooltip" aria-hidden="true" role="note"><span class="insight-tooltip-text">{{ include.info }}</span>{% if include.url %}<a class="insight-tooltip-link" href="{{ hover_url }}">{{ include.link_text | default: "Learn more" }} <span aria-hidden="true">→</span></a>{% endif %}</span></span>

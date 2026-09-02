@@ -5,7 +5,14 @@ layout: default
 <main id="main" class="main-content insights-main" aria-label="Content">
   <section class="insights-hero" aria-labelledby="insights-title">
     <div class="insights-shell">
-      <p class="insights-kicker">Sageev Oore</p>
+      <p class="insights-kicker">{{ site.insights_author.name | default: site.author.name }}</p>
+      {% if site.insights_author.credentials %}
+        <p class="insights-credentials">
+          {% for credential in site.insights_author.credentials %}
+            <span class="insights-credential">{{ credential }}</span>{% unless forloop.last %}<span class="insights-credential-separator" aria-hidden="true">·</span>{% endunless %}
+          {% endfor %}
+        </p>
+      {% endif %}
       <h1 id="insights-title">{{ page.title }}</h1>
       <div class="insights-introduction">
         {{ content }}
