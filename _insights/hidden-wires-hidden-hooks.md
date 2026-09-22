@@ -212,11 +212,11 @@ In practice, that might mean protecting sensitive information, verifying claims 
 
 We do not need to stop enjoying the show. The child, the experienced spectator, and the theatre professional can all enjoy watching Peter Pan fly.
 
-Similarly, an AI-literate audience can benefit from the system's performance while maintaining critical questions in mind: Why does this feel so persuasive? Does polished writing make it sound more "expert" than it is? What habits and expectations is it creating in me? Do I remember that I am watching a show—and am I choosing when to suspend disbelief?
+Similarly, an AI-literate audience can benefit from the system's performance while maintaining critical questions in mind[^benefit]: Why does this feel so persuasive? Does polished writing make it sound more "expert" than it is? What habits and expectations is it creating in me? Do I remember that I am watching a show—and am I choosing when to suspend disbelief? 
 
-Consider this short post a prompt for you, the reader: a framework for noticing what is—and is not—visible when you interact with an LLM. AI literacy is about enjoying the flight while learning to see the wires—and recognize the hooks.
+Consider this short post a prompt for you, the reader: a framework for noticing what is—and is not—visible when you interact with an LLM. AI literacy can allow you to enjoy the flight while learning to see the wires and recognize the hooks.
 
-_Thanks to Daniel Oore and Stacy Smith for thoughtful feedback on earlier drafts._
+_Thanks to Daniel Oore, Jonathan Oore, and Stacy Smith for thoughtful feedback on earlier drafts._
 
 ---
 
@@ -232,3 +232,5 @@ _Thanks to Daniel Oore and Stacy Smith for thoughtful feedback on earlier drafts
 [^artRole]: Arguably, this is one of the reasons theatre and other arts exist: they have an impact on the viewer. That impact can be more subtle and complicated than one might be aware of—a topic for another post.
 
 [^analogyBreak]: Analogies are never perfect, by design. They make some things "clearer" by being inaccurate about other things. If they were perfect, they would no longer be an analogy; they'd be the actual thing! Like all of them, this one has limitations too. An LLM is neither a conscious actor following a director's instructions nor a scripted theatrical production. Nor is the user merely a spectator: your prompts help shape what happens, making you part audience member, part improvisational partner, and sometimes a kind of director. The resulting “performance” emerges from the interaction between you and a system shaped by training, statistical prediction, software, policies, prompts, and product decisions. Some of these elements deserve—and might just receive—future posts of their own. In the meantime, if any aspect is truly unclear, feel free to leave a question and I'll try to respond.
+
+[^benefit]: In fact, AI literacy allows the user to gain significantly more benefits from these systems.
